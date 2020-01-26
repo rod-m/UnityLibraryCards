@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/Library/Caches/Rider2018.1/resharper-host/local/Transient/ReSharperHost/v12/SolutionCaches/_UnityLibraryCards.-2096858195.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="UnityLibraryCards" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CardGames" t="Include">
+          <e p="Card.cs" t="Include" />
+          <e p="CardDealer.cs" t="Include" />
+          <e p="CardHelper.cs" t="Include" />
+          <e p="CardSelector.cs" t="Include" />
+          <e p="DeckofCards.cs" t="Include" />
+          <e p="Editor" t="Include">
+            <e p="CardPropertyDrawer.cs" t="Include" />
+          </e>
+          <e p="Face.cs" t="Include" />
+          <e p="Suit.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="README.md" t="Include" />
+        <e p="UnityLibraryCards.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="UnityLibraryCards.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
